@@ -47,8 +47,8 @@ function Chain() {
       onSelect={onSelectHandler}
       fullscreen={false}
       style={{
-        backgroundColor: "rgb(241 245 249)",
-        padding: "16px",
+        backgroundColor: "rgb(255 247 237)",
+        padding: "32px",
       }}
     />
   );
